@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-path = r'C:\Users\Zako3\OneDrive - University of Twente\Documents\ITC Courses\1st Year\Quartile 4\Weather Impact Analysis\Assessments\Drought Monitoring\outcomes\rain_ltm.csv'
+path = r'C:\Users\Abdillahi\OneDrive\rain_ltm.csv'
 # Load the data from the provided CSV file
 rainfall_data = pd.read_csv(path)
 rainfall_data.head()
