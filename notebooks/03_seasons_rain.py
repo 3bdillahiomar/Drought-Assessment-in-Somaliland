@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the data from the provided CSV file
-path = r'C:\Users\Zako3\OneDrive - University of Twente\Documents\ITC Courses\1st Year\Quartile 4\Weather Impact Analysis\Assessments\Drought Monitoring\outcomes\rain_ltm_filtered.csv'
+path = r'C:\Users\Zako3\Abdillahi\rain_ltm_filtered.csv'
 df = pd.read_csv(path)
 
 # Convert the 'system:time_start' column to datetime
