@@ -1,6 +1,8 @@
 # 🌾🛰️ Spatiotemporal Analysis of Agricultural Drought Severity and Hotspots in Somaliland 🌧️📉
 
-This repository hosts the preprinted paper titled "Spatiotemporal Analysis of Agricultural Droughts in Somaliland: Integrating MODIS-derived Vegetation Indices and CHIRPS Precipitation Estimates." The study provides an in-depth analysis of agricultural droughts in Somaliland using spatiotemporal data. It integrates MODIS-derived vegetation indices and CHIRPS precipitation estimates to identify and assess drought patterns over time. This repository contains the data, code, and results related to the study, offering valuable insights and tools for further research and practical applications in drought monitoring and mitigation.
+This repository hosts the preprint paper titled "Spatiotemporal Analysis of Agricultural Drought Severity and Hotspots in Somaliland." The study provides a comprehensive analysis of agricultural droughts in Somaliland, utilizing spatiotemporal data. It integrates MODIS-derived vegetation indices and CHIRPS precipitation data to identify and assess drought severity and hotspots over time.
+
+The repository contains the data, code, and results from the study, offering valuable resources for further research and practical applications in drought monitoring and mitigation.
 
 Abdillahi Osman Omar1, Ahmed Abdiaziz Alasow2*, Abdiweli Ali Farah2, Shamsuddin Shahid3
 
@@ -41,7 +43,7 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ## Citation
 
-If you use the data, code, or findings from this repository in your research, please cite:
+If you use the data, code, or findings from this repository in your research, please cite because that is scientific integrity.
 
 Omar, A.O., Alasow, A.A., Farah, A.A., Shahid, S. (2024). Spatiotemporal Analysis of Agricultural Droughts in Somaliland: Integrating MODIS-derived Vegetation Indices and CHIRPS Precipitation Estimates. 
 
