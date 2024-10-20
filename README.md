@@ -2,7 +2,7 @@
 
 This repository hosts the preprinted paper titled "Spatiotemporal Analysis of Agricultural Droughts in Somaliland: Integrating MODIS-derived Vegetation Indices and CHIRPS Precipitation Estimates." The study provides an in-depth analysis of agricultural droughts in Somaliland using spatiotemporal data. It integrates MODIS-derived vegetation indices and CHIRPS precipitation estimates to identify and assess drought patterns over time. This repository contains the data, code, and results related to the study, offering valuable insights and tools for further research and practical applications in drought monitoring and mitigation.
 
-Abdillahi Osman Omar1, Ahmed Abdiaziz Alasow2, Shamsuddin Shahid3*
+Abdillahi Osman Omar1, Ahmed Abdiaziz Alasow2*, Abdiweli Ali Farah2, Shamsuddin Shahid3
 
 1 Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, The Netherlands. Email: abdillahiosmanomar@student.utwente.nl
 
@@ -43,5 +43,5 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 If you use the data, code, or findings from this repository in your research, please cite:
 
-Omar, A.O., Alasow, A.A., Shahid, S. (2024). Spatiotemporal Analysis of Agricultural Droughts in Somaliland: Integrating MODIS-derived Vegetation Indices and CHIRPS Precipitation Estimates. 
+Omar, A.O., Alasow, A.A., Farah, A.A., Shahid, S. (2024). Spatiotemporal Analysis of Agricultural Droughts in Somaliland: Integrating MODIS-derived Vegetation Indices and CHIRPS Precipitation Estimates. 
 
