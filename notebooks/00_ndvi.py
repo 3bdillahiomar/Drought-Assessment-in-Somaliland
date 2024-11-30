@@ -7,8 +7,8 @@ from matplotlib.cm import ScalarMappable
 from rasterio.plot import plotting_extent
 
 # Define the paths of the dataset
-regions_path = r"C:\Users\Zako3\Downloads\drought_somaliland\regions\somaliland_regions.gpkg"
-ndvi_path = r"C:\Users\Zako3\Downloads\drought_somaliland\ndvi_2005_2023\earthengine-ndvi"
+regions_path = r"...\somaliland_regions.gpkg"
+ndvi_path = r"...\earthengine-ndvi"
 
 # Read the regions GeoPackage file
 regions = gpd.read_file(regions_path)
