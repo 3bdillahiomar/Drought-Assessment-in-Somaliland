@@ -8,12 +8,12 @@ import matplotlib.pyplot as plt
 from rasterstats import zonal_stats
 
 # Path to the directory containing all the TIFF files
-directory = r"C:\Users\Zako3\Downloads\drought_somaliland\ndvi_2005_2023\earthengine-ndvi"
-regions_path = r"C:\Users\Zako3\Downloads\drought_somaliland\regions\somaliland_regions.gpkg"
+directory = r"...\ndvi_2005_2023\earthengine-ndvi"
+regions_path = r"...\somaliland_regions.gpkg"
 
 # Get a list of all TIFF files in the directory
 tiff_files = glob.glob(os.path.join(directory, "*.tif"))
-tiff_files.sort()  # Ensure the files are sorted by year
+tiff_files.sort()  # Ensure the files are sorted by year in order
 
 # Read the regions GeoPackage file
 regions = gpd.read_file(regions_path)
@@ -37,7 +37,7 @@ for tiff_file in tiff_files:
 
 # Transpose DataFrame to have years as rows and regions as columns
 ndvi_df = ndvi_df.T
-ndvi_df.columns = regions['name_1']  # Assuming the region names are in a column named 'name_1'
+ndvi_df.columns = regions['name_1']  # Assuming the region names are in a column named 'name_1' as from Google Earth Engine
 
 # Calculate NDVI anomaly (deviation from mean)
 ndvi_anomaly_df = ndvi_df - ndvi_df.mean()
