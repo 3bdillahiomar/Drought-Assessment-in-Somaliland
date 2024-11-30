@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 
 # Path to the directory containing all the TIFF files
-directory = r"C:\Users\Zako3\Downloads\drought_somaliland\vci\earthengine-vci"
-districts_path = r"C:\Users\Zako3\Downloads\drought_somaliland\regions\somaliland_districts.gpkg"
+directory = r"...vci\earthengine-vci"
+districts_path = r"...somaliland_districts.gpkg"
 
 # Get a list of all TIFF files in the directory
 tiff_files = glob.glob(os.path.join(directory, "*.tif"))
