@@ -41,9 +41,5 @@ Before running the scripts, ensure you have Python installed on your system. Req
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
-## Citation
 
-If you use the data, code, or findings from this repository in your research, please cite because that is scientific integrity.
-
-Omar, A.O., Alasow, A.A., Farah, A.A., Shahid, S. (2024). Spatiotemporal Analysis of Agricultural Droughts in Somaliland: Integrating MODIS-derived Vegetation Indices and CHIRPS Precipitation Estimates. 
 
